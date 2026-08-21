@@ -1,0 +1,4 @@
+# Upstream repositories can include their own Git metadata. Keep it out of
+# this aggregation repository while preserving the copied skill files.
+skills/*/.git/
+_local-upstream-git/
